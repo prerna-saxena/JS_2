@@ -1,0 +1,34 @@
+JAB ARGUMENT JYADA HO AND VALUE KAM HO THEN RESULT IS U DEFINED ELSE 
+
+JAB ARGUMENT APKE KAM HO AND VALUE JYADA THEN APKE VO HI VALUE UTAATE H ONLY 
+AND THEN RESULT MEIN VALUE DIKHATE H 
+
+AS SUPPOSE 
+function sum(a, b) {
+  return a + b;
+}
+
+alert( sum(1, 2, 3, 4, 5) );
+
+THE RESULT COULD BE 3
+
+ELSE IN THAT CASE
+function sum(a, b, c, d,e ) {
+  return a + b;
+}
+
+alert( sum(1, 2, 3) );
+
+ in that case value could be undefined kyuki arguments jydaa h and apke values kam to undefined adding in any could return undefined
+
+
+
+
+
+
+
+
+
+
+
+
